@@ -4,7 +4,7 @@
 
 ###### The BIM Calculator is a GUI system created to help you know your Body Statistics using BMI Calculator and Calorie Calculator, and Actions needed to be fit with the help of a simple workout planner. It has features that calculate your body mass index (BMI) to identify if your nutritional status is improving from being underweight to obese. The calorie calculator can help you figure out how many calories you should consume each day based on your basal metabolic rate (BMR). Last is the workout planner, where you can find the plan you need to gain, maintain, or lose weight.
 
-![team 2 members](https://github.com/zeusbayeta/BIM-Calculator/assets/153422511/16350414-18ea-4935-a769-e0949eb326ae)
+![image](https://github.com/zeusbayeta/BIM-Calculator/assets/153422511/eec5e8c0-ef31-44b9-a42b-1b3472609e20)
 
 ## Members:
 
